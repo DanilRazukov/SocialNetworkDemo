@@ -1,0 +1,9 @@
+.friend{
+    color: darkred;
+}
+.ava img{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    padding-top: 10px;
+}
