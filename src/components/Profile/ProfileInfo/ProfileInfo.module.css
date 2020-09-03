@@ -1,13 +1,20 @@
 .item {
     color: green;
 }
-.app-wrapper-content img{
+
+.app-wrapper-content img {
     width: 1200px;
 }
+
 .descriptionBlock {
     padding: 10px;
 }
+
 .descriptionBlock img {
     width: 150px;
     border: none;
+}
+
+.contact {
+    padding-left: 10px;
 }
