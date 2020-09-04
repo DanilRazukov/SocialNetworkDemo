@@ -44,7 +44,7 @@ const ProfileInfo = ({profile, status, updateStatus, isOwner, savePhoto, savePro
 const ProfileData = ({profile, isOwner, goToEditMode}) => {
     return <div>
         {isOwner && <div>
-            <button onClick={goToEditMode}>edit</button>
+            <button onClick={goToEditMode}>Edit Profile</button>
         </div>}
         <div>
             <b>Full name</b>: {profile.fullName}
